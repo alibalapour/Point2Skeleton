@@ -55,10 +55,10 @@ python test.py --pc_list_file ../data/data-split/all-test.txt --data_root ../dat
 * See `python test.py --help` for all the testing options. 
 
 ### Download 
-* Train/test data [data.zip](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/chlin_connect_hku_hk/EQ9MqoAwdO9HhXXJ9BNFtLgBDZPelH0ekjL_LnmTCWRQOQ?e=HLohdL).
-* Pre-trained model [weights.zip](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/chlin_connect_hku_hk/ERGdQDHt-9hFn6R6wMD9nMkBSOQzLcqBQNwTkmMXiBlbgA?e=3H401m).
+* Train/test data [data.zip](https://drive.google.com/file/d/1FlX8kqw-e_caxG_IIG5Hbk2qTl1eTWww/view?usp=sharing).
+* Pre-trained model [weights.zip](https://drive.google.com/file/d/1qRSQJYoIssc43D4w16NeE9U9u-tbw2DN/view?usp=sharing).
 * Unzip the downloaded files to replace the `data/` and `weights/` folders; then you can run the code by simply calling `python train.py` and `python test.py`.
-* Dense point cloud [data_dense.zip](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/chlin_connect_hku_hk/Eec-Sw04eZ5BrI0lg9Ejsk0BWoER80hXqazXPyQNdI4Z-g?e=OQCt2l) and simplified MAT [MAT.zip](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/chlin_connect_hku_hk/ETAOxquhlQ5Nlzgqp3cRGSIBJDck71ULYwFkJaBKWtiXLQ?e=fHLGZ9) for evaluation.
+* Dense point cloud [data_dense.zip](https://drive.google.com/file/d/1F5My_kkY6NAiLQP5bvva2nPpLsExhrEr/view?usp=sharing) and simplified MAT [MAT.zip](https://drive.google.com/file/d/1rX_bBsMIJ9-KdNdjmJoShd94BfaggoFN/view?usp=sharing) for evaluation.
 
 ## Acknowledgement
 We would like to acknowledge the following projects:
