@@ -14,8 +14,9 @@ import re
 import sys
 import threading
 import traceback
-from torch._six import string_classes, int_classes
-
+# from torch._six import string_classes, int_classes
+string_classes = str
+int_classes = int
 
 if sys.version_info[0] == 2:
     import Queue as queue
